@@ -8,3 +8,6 @@ Principe du jeu à déclarer ici.
 
 ### Participants
 Tous les membres de la formation
+
+### Branche jeu
+Une première branche avant la deuxième.
