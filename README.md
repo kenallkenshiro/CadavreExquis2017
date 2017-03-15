@@ -10,4 +10,4 @@ Principe du jeu à déclarer ici.
 Tous les membres de la formation
 
 ### Branche jeu
-Une première branche avant la deuxième.
+Une première branche avant la deuxième avec un moteur.
